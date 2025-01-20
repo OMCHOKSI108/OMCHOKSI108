@@ -19,15 +19,7 @@
 - **Instagram**: [@omchoksii](https://www.instagram.com/omchoksii)  
 - **LeetCode**: [omchoksi](https://leetcode.com/u/OmChoksi_23aiml010/)
 
----
-
-### 🏆 Achievements
-- 🥇 **Top Scorer** in AI/ML Hackathon 2024.  
-- 📜 **Certified AI Developer** from XYZ Institution.  
-- ✍️ Published AI research in [Research Journal Name].  
-- 🎓 Final-year AIML student at [Your University].  
-
----
+------
 
 ### 🛠️ Tools, Skills, and Languages
 #### **Programming Languages**
