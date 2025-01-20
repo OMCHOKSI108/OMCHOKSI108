@@ -35,7 +35,7 @@
 [![An image of @omchoksi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omchoksi)](https://holopin.io/@omchoksi)
 
 ##  🐍 Snake Eating My Contributions
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/output/github-contribution-grid-snake-dark.svg">
 
 <br></br>
 
