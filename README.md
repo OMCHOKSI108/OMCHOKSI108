@@ -64,7 +64,7 @@
 <div align="center">
 	<a href="https://leetcode.com/omchoksi_23aiml010/" target="_blank">
 		<img src="https://github.com/omchoksi108/omchoksi108/blob/main/assets/leetcode.png" alt="leetcode-profile"/>
-		<h1>LeetCode</h1>
+		
 	</a>
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
