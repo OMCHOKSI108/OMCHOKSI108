@@ -62,7 +62,7 @@
 
 <h1 align="center">My Coding Profiles</h1>
 <div align="center">
-	<a href="https://leetcode.com/omchoksi108/" target="_blank">
+	<a href="https://leetcode.com/omchoksi_23aiml010/" target="_blank">
 		<img src="https://github.com/iamarghamallick/omchoksi108/blob/main/assets/leetcode.png" alt="leetcode-profile"/>
 	</a>
 	<span>&nbsp;</span>
