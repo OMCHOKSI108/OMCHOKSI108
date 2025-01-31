@@ -67,8 +67,8 @@
 	</a>
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
-	<a href="https://auth.geeksforgeeks.org/user/omchoksii" 	target="_blank">
-		<img src="https://github.com/omchoksi108/omchoksi108/blob/main/assets/gfg.png" alt="gfg-profile"/>
+	<a href="https://auth.geeksforgeeks.org/user/omchoksii" target="_blank">
+		<img src=https://github.com/omchoksi108/omchoksi108/blob/main/assets/gfg.png" alt="gfg-profile"/>
 	</a>
 </div>
 </br>
@@ -99,18 +99,7 @@
   </a>
 </p>
 
-<div align="center">
-	<a href="https://github.com/omchoksi108" target="_blank">
-		<img alt="github-over-time" src="https://stats.quine.sh/omchoksi108/github?theme=dark" width="80%">
-	</a>
-</div>
-
-<div align="center">
-	<a href="https://github.com/omchoksi108" target="_blank">
-		<img alt="languages-over-time" src="https://stats.quine.sh/omchoksi108/languages-over-time?theme=dark" width="80%">
-	</a>
-</div>
-
+<!-- add
 ---
 
 <!-- ### Support Me
@@ -136,7 +125,7 @@
 ---
 
 <p align="center">
- <img src="https://github.com/omchoksi108/omchoksi108/blob/main/assets/Cool.gif">
+ <img src=https://github.com/omchoksi108/omchoksi108/blob/main/assets/Cool.gif">
 </p>
 
 ---
