@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+OM+CHOKSI,+a+CS+undergrad+from+SURAT,+India.;Passionate+about+technologies+and+its+limitless+possibilities!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/omchoksi108)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+OM+CHOKSI;Passionate+about+technologies+and+its+limitless+possibilities!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/omchoksi108)
 
 <!-- <p align="right">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
