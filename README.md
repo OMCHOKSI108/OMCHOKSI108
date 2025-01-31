@@ -68,7 +68,7 @@
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
 	<a href="https://auth.geeksforgeeks.org/user/omchoksii" target="_blank">
-		<img src=https://github.com/omchoksi108/omchoksi108/blob/main/assets/gfg.png" alt="gfg-profile"/>
+		<img src="https://github.com/omchoksi108/omchoksi108/blob/main/assets/gfg.png" alt="gfg-profile"/>
 	</a>
 </div>
 </br>
