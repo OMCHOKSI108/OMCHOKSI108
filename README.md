@@ -125,7 +125,7 @@
 ---
 
 <p align="center">
- <img src=https://github.com/omchoksi108/omchoksi108/blob/main/assets/Cool.gif">
+ <img src="https://github.com/omchoksi108/omchoksi108/blob/main/assets/Cool.gif">
 </p>
 
 ---
