@@ -1,4 +1,15 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+OM+CHOKSI;Passionate+about+technologies+and+its+limitless+possibilities!;center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/omchoksi108)
+# 🚀 Om Choksi
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/neelsha52882569?logo=twitter&style=for-the-badge)](https://twitter.com/omchoksi108)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omchoksi/)
+[![Kaggle](https://img.shields.io/badge/-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/omchoksi04)
+[![Medium](https://img.shields.io/badge/-MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omchoksi)
+<a href="https://omchoksi-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
+  </a>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+OM+CHOKSI;Passionate+about+technologies+and+its+limitless+possibilities!;center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/omchoksi108)
 
 ## 👨‍💻 About Me
 
