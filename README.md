@@ -10,7 +10,7 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=omchoksi108)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+OM+CHOKSI;Passionate+about+technologies+and+its+limitless+possibilities!;center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/omchoksi108)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+OM+CHOKSI;Passionate+about+technologies+and+its+limitless+possibilities!;center=PENTAGON&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/omchoksi108)
 
 ## 👨‍💻 About Me
 
