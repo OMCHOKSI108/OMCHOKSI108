@@ -1,139 +1,108 @@
-# 🚀 Om Choksi
+# 👋 Om Choksi  
+**AI & Machine Learning Engineer | Data Analytics | Backend Systems**
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/omchoksi108?logo=twitter&style=for-the-badge)](https://twitter.com/omchoksi108)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omchoksi/)
-[![Kaggle](https://img.shields.io/badge/-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/omchoksi04)
-[![Medium](https://img.shields.io/badge/-MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omchoksi108)
-<a href="https://omchoksi-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/omchoksi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/omchoksi04)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium)](https://medium.com/@omchoksi108)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat)](https://omchoksi-portfolio.vercel.app/)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=omchoksi108)
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+OM+CHOKSI;Passionate+about+technologies+and+its+limitless+possibilities!;center=PENTAGON&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/omchoksi108)
+## 🧠 Who I Am
 
-## 👨‍💻 About Me
+I’m a **B.Tech AIML student and applied machine learning engineer** who focuses on turning data, models, and ideas into **working systems**.
 
-I'm a curious and driven AI enthusiast, diving deep into the world of technology to create innovative solutions. I love exploring the endless possibilities of code, from crafting intelligent algorithms to building seamless backend systems. Outside of tech, I enjoy gaming, binge-watching sci-fi series, and experimenting with new recipes in the kitchen.
+I don’t just train models — I care about:
+- why a model works,
+- when it fails,
+- and how it behaves in production.
 
-### 🌱 Currently Learning
+My work spans **machine learning, data analytics, backend APIs, automation, and security-aware systems**.
 
-- Advanced machine learning algorithms and their real-world applications
-- Cloud-based AI solutions with Google Cloud Platform
-- Full-stack web development with modern JavaScript frameworks
-- Data structures and algorithms for optimized problem-solving
+---
 
-### 💬 Ask Me About
+## 🔍 What I Work On
 
-- Building scalable backend systems with Python and Java
-- Implementing machine learning models for predictive analytics
-- Navigating Google Cloud services for AI and data projects
-- Competitive programming and problem-solving with DSA
-- My favorite sci-fi shows or gaming strategies!
+- **Machine Learning**  
+  Classification, regression, ensemble models (Random Forest, XGBoost), feature engineering, model evaluation, SHAP-based explainability.
 
-### 📫 How to Reach Me
+- **Data Analytics & EDA**  
+  Business insights, customer segmentation, fraud detection, statistical analysis, visualization-driven conclusions.
 
-Feel free to connect at **omchoksi108@gmail.com**
+- **Backend & Full-Stack Systems**  
+  Flask & Node.js APIs, authentication, dashboards, ML model integration, deployment on cloud platforms.
 
-### ⚡ Fun Fact
+- **Automation & Integrations**  
+  Workflow automation (n8n), API-based systems, real-time alerts, Telegram bots.
 
-"I once tried to optimize my daily routine like a machine learning model, scheduling my coffee breaks and gaming sessions with precision. Let’s just say I overfittingly planned my naps and ended up debugging my sleep schedule instead. On the bright side, I’m now an expert at balancing code and caffeine, and I’m pretty sure I could win a coding marathon—if it included snack breaks!"
+- **Security & Systems Thinking**  
+  Secure APIs, auth flows, awareness of common vulnerabilities (OWASP-style thinking).
 
-## 🛠️ Languages and Tools
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,visualstudio" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,mysql,mongodb,gcp" />
-  </a>
-</p>
+## 🚀 Highlighted Projects
 
-## 📊 GitHub Stats
+- **Employee Performance Prediction System**  
+  ML-powered web app using Random Forest & XGBoost with visual analytics and explainability.
 
-<div align="center">
-	<a href="https://github.com/omchoksi108" target="_blank">
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omchoksi108&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" width="80%"/>
-	</a>
-</div>
+- **PDF Outline Extractor (Hackathon Project)**  
+  Automated extraction of structured headings (Title, H1–H3) from complex PDFs into clean JSON.
 
-<div align="center">
-	<a href="https://github.com/omchoksi108" target="_blank">
-  		<img src="https://github-readme-stats.vercel.app/api?username=omchoksi108&show_icons=true&locale=en&langs_count=20&count_private=true&theme=transparent&hide_border=true" width="80%"/>
-	</a>
-</div>
+- **Trading Signal Automation System**  
+  Real-time options analysis engine with API authentication, scoring logic, and Telegram alerts.
+
+- **Data Analytics Case Studies**  
+  End-to-end projects covering EDA, modeling, evaluation, and insight generation across multiple domains.
+
+*(Details inside repositories — code > claims.)*
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+`Python` · `Java` · `C++` · `JavaScript`
+
+**ML / Data**  
+`scikit-learn` · `pandas` · `NumPy` · `SHAP` · `Matplotlib`
+
+**Backend / Web**  
+`Flask` · `Node.js` · `Express` · `Next.js` · `REST APIs`
+
+**Databases / Cloud**  
+`MySQL` · `MongoDB` · `Google Cloud Platform`
+
+**Tools**  
+`Git` · `GitHub` · `Docker (basic)` · `VS Code`
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-	<a href="https://github.com/omchoksi108" target="_blank">
-  		<img src="https://github-readme-streak-stats.herokuapp.com?user=omchoksi108&theme=vue&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="omchoksi108" width="80%"/>
-	</a>
-</div>
-
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omchoksi108&theme=vue&bg_color=00000000&hide_border=true)](https://omchoksi108.github.io/portfolio/)
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-	<a href="https://github.com/omchoksi108" target="_blank">
-  		<img src="https://github-profile-trophy.vercel.app/?username=omchoksi108&no-bg=true&theme=radical&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="omchoksi108" width=200% height=100%/>
-	</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=omchoksi108&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchoksi108&layout=compact&theme=transparent&hide_border=true" width="48%"/>
 </div>
 
 ---
 
-<h3 align="center">Actively Learning</h3>
-<p align="center">
-	<a href="https://github.com/omchoksi108" target="_blank">
-		<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
-	</a>
-</p>
+## 📚 Currently Learning (Deep, Not Broad)
 
-<h1 align="center">My Coding Profiles</h1>
-<div align="center">
-	<a href="https://leetcode.com/omchoksi_23aiml010/" target="_blank">
-		<img src="https://github.com/omchoksi108/omchoksi108/blob/main/assets/leetcode.png" alt="leetcode-profile"/>
-	</a>
-	<span> </span>
-	<span> </span>
-	<a href="https://auth.geeksforgeeks.org/user/omchoksii" target="_blank">
-		<img src="https://github.com/omchoksi108/omchoksi108/blob/main/assets/gfg.png" alt="gfg-profile"/>
-	</a>
-</div>
+- Model interpretability & error analysis  
+- Scalable ML pipelines  
+- System design for data-driven applications  
+- Advanced DSA for problem-solving efficiency
 
 ---
 
-<div align="center">
-  <h2>Follow me around the Web</h2><br>
-  <a href="https://www.linkedin.com/in/omchoksi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/omchoksii" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
+## 📬 Contact
+
+📧 **omchoksi108@gmail.com**
+
+If your project involves **ML, data, backend systems, or automation**, I’m open to collaborating.
 
 ---
 
 <p align="center">
-  <img src="https://github.com/omchoksi108/omchoksi108/blob/main/assets/Cool.gif">
-</p>
-
----
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
+<i>Build systems. Measure results. Improve relentlessly.</i>
 </p>
