@@ -1,108 +1,130 @@
-# 👋 Om Choksi  
-**AI & Machine Learning Engineer | Data Analytics | Backend Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/omchoksi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/omchoksi04)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium)](https://medium.com/@omchoksi108)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat)](https://omchoksi-portfolio.vercel.app/)
+<h2 align="center">Hi, I'm Om Choksi 👋</h2>
 
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=40b983&size=24&duration=3000&pause=1200&center=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Machine+Learning+Engineer;Data+Analytics+%7C+Backend+Systems+Builder" />
+  </a>
+</p>
 
-## 🧠 Who I Am
+<p align="center">
+  <img align="middle" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="420"/>
+</p>
 
-I’m a **B.Tech AIML student and applied machine learning engineer** who focuses on turning data, models, and ideas into **working systems**.
+<p>
+I’m a <b>B.Tech AIML student</b> and an <b>applied Machine Learning engineer</b> who enjoys building practical, data-driven systems.  
+My focus is not just on training models, but on understanding <b>why they work, where they fail, and how they behave in real-world applications</b>.
+</p>
 
-I don’t just train models — I care about:
-- why a model works,
-- when it fails,
-- and how it behaves in production.
-
-My work spans **machine learning, data analytics, backend APIs, automation, and security-aware systems**.
-
----
-
-## 🔍 What I Work On
-
-- **Machine Learning**  
-  Classification, regression, ensemble models (Random Forest, XGBoost), feature engineering, model evaluation, SHAP-based explainability.
-
-- **Data Analytics & EDA**  
-  Business insights, customer segmentation, fraud detection, statistical analysis, visualization-driven conclusions.
-
-- **Backend & Full-Stack Systems**  
-  Flask & Node.js APIs, authentication, dashboards, ML model integration, deployment on cloud platforms.
-
-- **Automation & Integrations**  
-  Workflow automation (n8n), API-based systems, real-time alerts, Telegram bots.
-
-- **Security & Systems Thinking**  
-  Secure APIs, auth flows, awareness of common vulnerabilities (OWASP-style thinking).
+<p>
+I work across <b>machine learning, data analytics, backend APIs, and automation</b>, and I enjoy turning ideas into usable systems rather than isolated notebooks.
+</p>
 
 ---
 
-## 🚀 Highlighted Projects
-
-- **Employee Performance Prediction System**  
-  ML-powered web app using Random Forest & XGBoost with visual analytics and explainability.
-
-- **PDF Outline Extractor (Hackathon Project)**  
-  Automated extraction of structured headings (Title, H1–H3) from complex PDFs into clean JSON.
-
-- **Trading Signal Automation System**  
-  Real-time options analysis engine with API authentication, scoring logic, and Telegram alerts.
-
-- **Data Analytics Case Studies**  
-  End-to-end projects covering EDA, modeling, evaluation, and insight generation across multiple domains.
-
-*(Details inside repositories — code > claims.)*
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-`Python` · `Java` · `C++` · `JavaScript`
-
-**ML / Data**  
-`scikit-learn` · `pandas` · `NumPy` · `SHAP` · `Matplotlib`
-
-**Backend / Web**  
-`Flask` · `Node.js` · `Express` · `Next.js` · `REST APIs`
-
-**Databases / Cloud**  
-`MySQL` · `MongoDB` · `Google Cloud Platform`
-
-**Tools**  
-`Git` · `GitHub` · `Docker (basic)` · `VS Code`
+### 🧩 A little more about me
+```python
+Om_Choksi = {
+    "role": "AI & Machine Learning Engineer",
+    "education": "B.Tech (AIML)",
+    "languages": ["Python", "Java", "C++", "JavaScript"],
+    "interests": [
+        "Machine Learning",
+        "Data Analytics",
+        "Backend Systems",
+        "Automation",
+        "Security-aware Design"
+    ],
+    "ask_me_about": [
+        "ML model building & evaluation",
+        "EDA & feature engineering",
+        "Flask / Node.js APIs",
+        "Deploying ML systems",
+        "Workflow automation"
+    ],
+    "tools": {
+        "ml": ["scikit-learn", "XGBoost", "SHAP"],
+        "backend": ["Flask", "Node.js", "Express"],
+        "databases": ["MySQL", "MongoDB"],
+        "cloud": ["Google Cloud Platform"],
+        "automation": ["n8n", "REST APIs"]
+    }
+}
+````
 
 ---
 
-## 📊 GitHub Activity
+## 🌐 Socials
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omchoksi108&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchoksi108&layout=compact&theme=transparent&hide_border=true" width="48%"/>
-</div>
-
----
-
-## 📚 Currently Learning (Deep, Not Broad)
-
-- Model interpretability & error analysis  
-- Scalable ML pipelines  
-- System design for data-driven applications  
-- Advanced DSA for problem-solving efficiency
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/omchoksi/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@omchoksi108)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/omchoksi108)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:omchoksi108@gmail.com)
 
 ---
 
-## 📬 Contact
+## 🧠 Coding & Data Profiles
 
-📧 **omchoksi108@gmail.com**
-
-If your project involves **ML, data, backend systems, or automation**, I’m open to collaborating.
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=LeetCode\&logoColor=black)](https://leetcode.com/omchoksi_23aiml010/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge\&logo=GeeksforGeeks\&logoColor=white)](https://auth.geeksforgeeks.org/user/omchoksii)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=Kaggle\&logoColor=white)](https://www.kaggle.com/omchoksi04)
 
 ---
+
+## 🛠 Technology Stack
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+</p>
+
+### Machine Learning & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+</p>
+
+### Backend & Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,nextjs" />
+</p>
+
+### Databases & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,gcp" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🧪 My Contributions
+
+![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=omchoksi108\&theme=transparent\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=omchoksi108\&theme=transparent\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omchoksi108\&layout=compact\&theme=transparent\&hide_border=false)
+
+---
+
+### ✍️ Thought I Like
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=light)
 
 <p align="center">
 <i>Build systems. Measure results. Improve relentlessly.</i>
 </p>
+```
+
