@@ -10,7 +10,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="90%" alt="Systems Engineering Animation"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+       width="90%"
+       alt="Systems Engineering Animation"/>
 </p>
 
 ---
@@ -108,20 +110,29 @@ I focus on building **end-to-end systems** — not just models or UI — from da
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omchoksi108&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="420"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=omchoksi108&theme=tokyonight&hide_border=true" width="420"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=omchoksi108&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=21600"
+    width="420"/>
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=omchoksi108&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchoksi108&theme=tokyonight&hide_border=true&layout=compact" width="420"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchoksi108&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=21600"
+    width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omchoksi108&theme=tokyo-night&hide_border=true" width="90%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=omchoksi108&theme=tokyo-night&hide_border=true&cache_seconds=21600"
+    width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omchoksi108&theme=dracula&no-frame=true&row=1&column=6" width="90%"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=omchoksi108&theme=dracula&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
