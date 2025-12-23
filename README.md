@@ -1,120 +1,139 @@
-# Om Choksi
-
-<!-- ================= HERO : INFRA / ML SYSTEMS ================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-       width="100%" alt="ML Infrastructure Animation" />
+  <h1>
+    Hi, I'm <a href="https://omchoksi.dev">Om Choksi</a>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
+  </h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00D4FF&size=26&center=true&width=720&lines=Full+Stack+Engineer+%26+AI%2FML+Practitioner;Building+Scalable+Systems+with+Code;From+Data+to+Production" />
 </div>
 
-<h1 align="center">Om Choksi</h1>
-<h3 align="center">Applied ML Engineer | Architecting Scalable Data Systems</h3>
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omchoksi108&label=Profile+Views&color=40b983&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/omchoksi108?style=for-the-badge&color=40b983&logo=github"/>
-  <img src="https://img.shields.io/github/stars/omchoksi108?style=for-the-badge&color=40b983&logo=github"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=40b983&size=22&center=true&width=820&lines=Engineering+ML+Pipelines;Automating+Data+Workflows;Deploying+on+GCP+%26+Docker;MLOps:+Build+%E2%86%92+Deploy+%E2%86%92+Monitor"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="90%" alt="Systems Engineering Animation"/>
 </p>
 
 ---
 
-## 🔗 Connect Network
+## 👨‍💻 About
+
+**Full-Stack Engineer** with strong interest in **AI/ML, backend systems, and automation**.  
+I focus on building **end-to-end systems** — not just models or UI — from data ingestion to deployment.
+
+- Backend APIs & system design  
+- Applied ML & analytics  
+- Cloud deployment & automation  
+- Production-ready engineering mindset  
+
+---
+
+## 🔗 Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/omchoksi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@omchoksi108"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/omchoksi_23aiml010/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.kaggle.com/omchoksi04"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:omchoksi108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/omchoksi108"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png"/></a>
+  <a href="https://twitter.com/omchoksi108"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png"/></a>
+  <a href="https://dev.to/omchoksi108"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png"/></a>
+  <a href="mailto:omchoksi108@gmail.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg"/></a>
 </p>
 
 ---
 
-## 🏗️ ML Infrastructure Pipeline
+## 🧩 Technology Stack
 
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[EDA & Preprocessing]
-    B --> C[Feature Engineering]
-    C --> D[Model Training]
-    D --> E[Evaluation]
-    E --> F[Docker Image]
-    F --> G[GCP Deployment]
-    G --> H[Scalable API]
-````
-
----
-
-## 🧠 The Engine Room (Tech Stack)
-
-### ☁️ Cloud & Infrastructure
-
+### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,git,linux,bash" />
-</p>
-
-### 🔌 Backend & APIs
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,mongodb,postgresql" />
-</p>
-
-### 🤖 Core ML & Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
 </p>
 
 ---
 
-## ⚙️ System Capabilities
-
+### 🌐 Frontend Engineering
 <p align="center">
-  <img src="https://img.shields.io/badge/ETL-Automated-40b983?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Containers-Docker-40b983?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-40b983?style=for-the-badge&logo=googlecloud"/>
-  <img src="https://img.shields.io/badge/API-REST%20%7C%20FastAPI-40b983?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Models-RandomForest%20%7C%20XGBoost-40b983?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics (Live System Stats)
-
+### 🔌 Backend & API Development
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omchoksi108&show_icons=true&theme=transparent&hide_border=true&title_color=40b983"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omchoksi108&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchoksi108&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omchoksi108&theme=flat&no-frame=true&column=7"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
 ---
 
-## 🧪 ML Engineering Visual
-
+### 🤖 Machine Learning & Data
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       width="520" alt="Neural Network Animation"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy" />
 </p>
 
 ---
 
+### 🗄️ Databases & Storage
 <p align="center">
-  <i>Applied ML · MLOps Mindset · Production Systems</i>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
-```
 
 ---
 
+### ☁️ Cloud, DevOps & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,bash,vscode" />
+</p>
+
+---
+
+### ⚙️ Engineering Practices
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-Design%20%26%20Integration-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-n8n%20%7C%20Scripts-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-Docker%20%7C%20Cloud-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Thinking-End--to--End-2ea44f?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 ML & Systems Focus
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
+
+- Model training & evaluation  
+- Backend-integrated ML services  
+- Data pipelines & automation  
+- Deployment-aware development  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omchoksi108&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="420"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=omchoksi108&theme=tokyonight&hide_border=true" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchoksi108&theme=tokyonight&hide_border=true&layout=compact" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omchoksi108&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omchoksi108&theme=dracula&no-frame=true&row=1&column=6" width="90%"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
+
+<h3 align="center">Let’s build systems that actually scale.</h3>
