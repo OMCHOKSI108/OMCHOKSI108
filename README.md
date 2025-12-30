@@ -136,6 +136,15 @@ I focus on building **end-to-end systems** — not just models or UI — from da
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=omchoksi108&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## 🐍 Contribution Activity
 
