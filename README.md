@@ -126,7 +126,7 @@ const om = {
 ## 🧩 Competitive Programming
 
 <div align="center">
-  <a href="https://codolio.com/profiles/omchoksi" target="_blank">
+  <a href="https://codolio.com/profile/omchoksi" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-1F77B4?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
     <br/>
     <img src="https://codolio.com/profile-card/omchoksi" width="380" alt="Codolio Profile"/>
