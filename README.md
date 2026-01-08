@@ -49,25 +49,13 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+**Full-Stack Engineer** with strong interest in **AI/ML, backend systems, and automation**.  
+I focus on building **end-to-end systems** — not just models or UI — from data ingestion to deployment.
 
-```javascript
-const om = {
-    pronouns: "He" | "Him",
-    education: "B.Tech in Computer Engineering",
-    location: "India 🇮🇳",
-    currentFocus: "Building End-to-End AI/ML Systems",
-    
-    askMeAbout: [
-        "Full Stack Development",
-        "AI/ML Engineering",
-        "System Design",
-        "Data Pipelines"
-    ],
-    
-    funFact: "I turn data into production-ready systems"
-};
-```
+- Backend APIs & system design  
+- Applied ML & analytics  
+- Cloud deployment & automation  
+- Production-ready engineering mindset  
 
 <br/>
 
@@ -78,7 +66,7 @@ const om = {
 - 👯 Looking to collaborate on **Open Source AI projects**
 - 💬 Ask me about **Python, ML, APIs, Cloud**
 - 🎯 Goal: Building scalable AI infrastructure
-- ⚡ Fun fact: I debug models faster than code
+- ⚡ Fun fact: I turn data into production-ready systems
 
 <br clear="both"/>
 
@@ -122,15 +110,15 @@ const om = {
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omchoksi108&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&v=1" alt="Om's GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchoksi108&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8&v=1" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omchoksi108&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&v=1" alt="Om's GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omchoksi108&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8&v=1" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/omchoksi108">
-    <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=omchoksi108&theme=dark&hide_border=true&border_radius=15&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&background=0d1117&v=1" alt="GitHub Streak"/>
+    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=omchoksi108&theme=dark&hide_border=true&border_radius=15&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&background=0d1117&v=1" alt="GitHub Streak"/>
   </a>
 </div>
 
