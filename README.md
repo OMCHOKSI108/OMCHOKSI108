@@ -49,24 +49,37 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> About Me
 
-**Full-Stack Engineer** with strong interest in **AI/ML, backend systems, and automation**.  
-I focus on building **end-to-end systems** — not just models or UI — from data ingestion to deployment.
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- Backend APIs & system design  
-- Applied ML & analytics  
-- Cloud deployment & automation  
-- Production-ready engineering mindset  
+```javascript
+const om = {
+    pronouns: "He" | "Him",
+    code: ["Python", "JavaScript", "Java", "C++"],
+    askMeAbout: ["AI/ML", "System Design", "Data Pipelines", "Cloud"],
+    technologies: {
+        backend: ["Node.js", "Python", "FastAPI"],
+        frontend: ["React", "Next.js"],
+        databases: ["MongoDB", "PostgreSQL"],
+        ml: ["PyTorch", "TensorFlow", "Scikit-learn"],
+        cloud: ["GCP", "Docker"]
+    },
+    funFact: "I turn coffee ☕ into scalable AI systems 🤖"
+};
+```
 
 <br/>
 
-### ⚡ Quick Highlights
+🚀 **Full-Stack Engineer** crafting **AI-powered systems** from data to deployment  
+💡 Building end-to-end solutions that actually scale in production  
 
-- 🔭 Currently working on **AI-powered backend systems**
-- 🌱 Learning **Advanced ML deployment & MLOps**
-- 👯 Looking to collaborate on **Open Source AI projects**
-- 💬 Ask me about **Python, ML, APIs, Cloud**
-- 🎯 Goal: Building scalable AI infrastructure
-- ⚡ Fun fact: I turn data into production-ready systems
+### ⚡ What I'm Up To
+
+- 🔭 Engineering **AI/ML backend systems** that learn and adapt
+- 🌱 Mastering **MLOps & model deployment** pipelines  
+- 👯 Open to **collaborate on AI projects** that make impact
+- 💬 Ping me about **Python, ML engineering, APIs, or cloud architecture**
+- 🎯 Mission: Democratizing AI through robust, scalable systems
+- ⚡ Fun fact: I debug neural networks faster than my morning coffee kicks in
 
 <br clear="both"/>
 
