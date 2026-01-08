@@ -25,7 +25,7 @@
 
 <!-- Social Connect Badges -->
 <p>
-  <a href="https://omchoksi.dev/" target="_blank">
+  <a href="https://omchoksi-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/omchoksi108" target="_blank">
@@ -36,6 +36,9 @@
   </a>
   <a href="https://dev.to/omchoksi108" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://codolio.com/profiles/omchoksi" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-1F77B4?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
   </a>
   <a href="mailto:omchoksi108@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -120,7 +123,18 @@ const om = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> GitHub Analytics
+## 🧩 Competitive Programming
+
+<div align="center">
+  <a href="https://codolio.com/profiles/omchoksi" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-1F77B4?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
+    <br/>
+    <img src="https://codolio.com/profile-card/omchoksi" width="380" alt="Codolio Profile"/>
+  </a>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omchoksi108&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&v=1" alt="Om's GitHub Stats" />
