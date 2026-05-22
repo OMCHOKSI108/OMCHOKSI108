@@ -1,7 +1,15 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,20&height=180&section=header&text=Om%20Choksi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Practitioner&descAlignY=52&descSize=18"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,5,20&height=220&section=header&text=Om%20Choksi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Practitioner&descAlignY=58&descSize=20"/>
+
+<a href="https://github.com/omchoksi108">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+Scalable+Systems+with+Code;%F0%9F%92%BB+Full+Stack+Engineer+%7C+AI%2FML+Practitioner;%F0%9F%8C%9F+From+Data+to+Production"/>
+</a>
+
+</div>
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/omchoksi108">
