@@ -11,10 +11,6 @@
 
 </div>
 
-<!-- Animated Typing SVG -->
-<a href="https://github.com/omchoksi108">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+Scalable+Systems+with+Code;%F0%9F%92%BB+Full+Stack+Engineer+%7C+AI%2FML+Practitioner;%F0%9F%8C%9F+From+Data+to+Production" alt="Typing SVG" />
-</a>
 
 <br/>
 
