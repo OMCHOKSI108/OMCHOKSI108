@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,6,20&height=240&section=header&text=Om%20Choksi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Builder%20%E2%80%A2%20MCP%20Hacker%20%E2%80%A2%20Quant%20Dev&descAlignY=60&descSize=18&stroke=3fb950&strokeWidth=2"/>
 
 <a href="https://github.com/OMCHOKSI108">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=MCP+servers+%E2%80%A2+LLM+tooling+%E2%80%A2+real-world+AI;Self-driving+agents+%E2%80%A2+Quant+indicators+%E2%80%A2+FastAPIs;86+repos+%E2%80%A2+shipping+from+Surat+to+production"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=MCP+servers+%E2%80%A2+LLM+tooling+%E2%80%A2+real-world+AI;Self-driving+agents+%E2%80%A2+Quant+indicators+%E2%80%A2+FastAPIs;shipping+from+Local+to+production"/>
 </a>
 
 <br/>
