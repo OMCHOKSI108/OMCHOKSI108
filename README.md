@@ -1,180 +1,185 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,6,20&height=240&section=header&text=Om%20Choksi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Builder%20%E2%80%A2%20MCP%20Hacker%20%E2%80%A2%20Quant%20Dev&descAlignY=60&descSize=18&stroke=3fb950&strokeWidth=2"/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,5,20&height=220&section=header&text=Om%20Choksi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Practitioner&descAlignY=58&descSize=20"/>
-
-<a href="https://github.com/omchoksi108">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+Scalable+Systems+with+Code;%F0%9F%92%BB+Full+Stack+Engineer+%7C+AI%2FML+Practitioner;%F0%9F%8C%9F+From+Data+to+Production"/>
+<a href="https://github.com/OMCHOKSI108">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=MCP+servers+%E2%80%A2+LLM+tooling+%E2%80%A2+real-world+AI;Self-driving+agents+%E2%80%A2+Quant+indicators+%E2%80%A2+FastAPIs;86+repos+%E2%80%A2+shipping+from+Surat+to+production"/>
 </a>
-
-</div>
-<!-- Profile Stats -->
-<img 
-  src="https://komarev.com/ghpvc/?username=omchoksi108&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
-  alt="Profile Views"
-/>
 
 <br/>
 
-<!-- Profile Badges -->
-<p>
-  <a href="https://github.com/omchoksi108">
-    <img src="https://komarev.com/ghpvc/?username=omchoksi108&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/omchoksi108?tab=followers">
-    <img src="https://img.shields.io/github/followers/omchoksi108?label=Followers&style=for-the-badge&logo=github&color=1DA1F2" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/omchoksi108?tab=repositories">
-    <img src="https://img.shields.io/github/stars/omchoksi108?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=FFD700" alt="GitHub Stars"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=OMCHOKSI108&label=Profile+Views&color=3fb950&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/OMCHOKSI108?tab=followers">
+  <img src="https://img.shields.io/github/followers/OMCHOKSI108?label=Followers&style=for-the-badge&logo=github&color=3fb950" alt="GitHub Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/OMCHOKSI108?tab=repositories">
+  <img src="https://img.shields.io/github/stars/OMCHOKSI108?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=e3b341" alt="GitHub Stars"/>
+</a>
 
-<!-- Social Connect Badges -->
-<p>
-  <a href="https://omchoksi-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/omchoksi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://X.com/ChoksiOm" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/omchoksi108" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="mailto:omchoksi108@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<br/><br/>
+
+<a href="https://www.omchoksi.codes" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/omchoksi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://X.com/ChoksiOm" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://medium.com/@omchoksi108" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/omchoksi_23aiml010/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://dev.to/omchoksi108" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+<a href="mailto:omchoksi99@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> About Me
+<img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-```javascript
-const om = {
-    pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "Java", "C++"],
-    askMeAbout: ["AI/ML", "System Design", "Data Pipelines", "Cloud"],
-    technologies: {
-        backend: ["Node.js", "Python", "FastAPI"],
-        frontend: ["React", "Next.js"],
-        databases: ["MongoDB", "PostgreSQL"],
-        ml: ["PyTorch", "TensorFlow", "Scikit-learn"],
-        cloud: ["GCP", "Docker"]
-    },
-    funFact: "I turn coffee ☕ into scalable AI systems 🤖"
-};
+```python
+class OmChoksi:
+    location   = "Surat, Gujarat 🇮🇳"
+    focus      = ["AI/ML Systems", "MCP Protocol", "Quant Finance"]
+    stack      = ["Python", "FastAPI", "React", "LangChain", "Pine Script"]
+    currently  = "Building MCP servers that give LLMs real-world superpowers"
+    published  = "Medium — writing on AI, MCP, and data science"
+    competed   = ["Kaggle red-teaming (gpt-oss-20b)", "Odoo Hackathon 2026"]
+    fun_fact   = "I made Claude generate 3B1Brown-style videos on demand 🎬"
 ```
 
 <br/>
 
-🚀 **Full-Stack Engineer** crafting **AI-powered systems** from data to deployment  
-💡 Building end-to-end solutions that actually scale in production  
-
-### ⚡ What I'm Up To
-
-- 🔭 Engineering **AI/ML backend systems** that learn and adapt
-- 🌱 Mastering **MLOps & model deployment** pipelines  
-- 👯 Open to **collaborate on AI projects** that make impact
-- 💬 Ping me about **Python, ML engineering, APIs, or cloud architecture**
-- 🎯 Mission: Democratizing AI through robust, scalable systems
-- ⚡ Fun fact: I debug neural networks faster than my morning coffee kicks in
+- 🔭 &nbsp;Shipping **AI-powered apps**, **quant trading tools**, and **MCP protocol servers**
+- 🧠 &nbsp;Red-teamed OpenAI's `gpt-oss-20b` on Kaggle — probing for undiscovered vulnerabilities
+- 🎬 &nbsp;Built a public **Manim MCP Server** so Claude can produce real math animations
+- 📈 &nbsp;Wrote a full suite of **proprietary Pine Script + Python** quant indicators for NSE
+- ✍️ &nbsp;Writing on [Medium](https://medium.com/@omchoksi108) about AI, MCP, and data science
 
 <br clear="both"/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Tech Arsenal
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🎯 Programming Languages
+<a href="https://github.com/OMCHOKSI108/MCP-SERVER">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMCHOKSI108&repo=MCP-SERVER&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&border_radius=12"/>
+</a>
+<a href="https://github.com/OMCHOKSI108/FastAPI-Stock-data-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMCHOKSI108&repo=FastAPI-Stock-data-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&border_radius=12"/>
+</a>
+<a href="https://github.com/OMCHOKSI108/AI-AUTOMATION-WORKFLOWS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMCHOKSI108&repo=AI-AUTOMATION-WORKFLOWS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&border_radius=12"/>
+</a>
+<a href="https://github.com/OMCHOKSI108/self-driving-car-agent-using-deep-reinforcement-learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMCHOKSI108&repo=self-driving-car-agent-using-deep-reinforcement-learning&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&border_radius=12"/>
+</a>
+<a href="https://github.com/OMCHOKSI108/hr-assist-llm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMCHOKSI108&repo=hr-assist-llm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&border_radius=12"/>
+</a>
+<a href="https://github.com/OMCHOKSI108/text-classifier-model-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OMCHOKSI108&repo=text-classifier-model-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&border_radius=12"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" />
 </p>
 
-### � Frontend Technologies
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask,mongodb,postgresql" />
 </p>
 
-### 🤖 AI/ML & Data
+### AI / ML / Data
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pine_Script-1E88E5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Manim-3B3B3B?style=for-the-badge&logoColor=white"/>
 </p>
 
-### �️ Tools & Platforms
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode,bash" />
 </p>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omchoksi108&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&v=1" alt="Om's GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omchoksi108&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8&v=1" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OMCHOKSI108&show_icons=true&count_private=true&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117&border_radius=12" alt="Om's GitHub Stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OMCHOKSI108&layout=compact&hide_border=true&title_color=3fb950&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/omchoksi108">
-    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=omchoksi108&theme=dark&hide_border=true&border_radius=15&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&background=0d1117&v=1" alt="GitHub Streak"/>
-  </a>
+  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=OMCHOKSI108&theme=dark&hide_border=true&border_radius=12&ring=3fb950&fire=e3b341&currStreakLabel=3fb950&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omchoksi108&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true&area_color=00b4d8&v=1" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OMCHOKSI108&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true&area_color=3fb950" width="100%"/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=omchoksi108&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&v=1" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-trophies.vercel.app/?username=OMCHOKSI108&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" width="100%"/>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omchoksi108/omchoksi108/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omchoksi108/omchoksi108/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omchoksi108/omchoksi108/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 💭 Dev Quote of the Day
+## 💭 Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
@@ -182,16 +187,12 @@ const om = {
 
 <br/>
 
-<!-- Footer Wave -->
 <div align="center">
 
-### 💙 Thanks for stopping by!
+### built with obsession, not templates.
 
-<p>
-  <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_find_them_useful!-FFD700?style=for-the-badge" alt="Star"/>
-</p>
+<img src="https://img.shields.io/badge/⭐_Star_if_something_helped_you-e3b341?style=for-the-badge"/>
 
-**Let's build systems that actually scale!**
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=130&section=footer&fontColor=3fb950"/>
