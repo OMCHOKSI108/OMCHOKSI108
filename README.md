@@ -155,7 +155,10 @@ class OmChoksi:
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OMCHOKSI108&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true&area_color=3fb950" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amitmerchant1990/github-halloween-contribution-graph/master/res/github-contribution.png" alt="GitHub Halloween Contribution Graph" width="100%"/>
+</div>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
