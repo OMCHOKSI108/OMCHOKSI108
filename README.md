@@ -156,7 +156,7 @@ class OmChoksi:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amitmerchant1990/github-halloween-contribution-graph/master/res/github-contribution.png" alt="GitHub Halloween Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/main/assets/github-contribution-halloween.svg" alt="OMCHOKSI108's Halloween Contribution Graph" width="100%"/>
 </div>
 
 
