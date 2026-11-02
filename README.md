@@ -1,87 +1,93 @@
-<div align="center">
+# Hi, I'm Om 👋
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,6,20&height=240&section=header&text=Om%20Choksi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20@%20AceIntelligence%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Agentic%20Engineering&descAlignY=60&descSize=18&stroke=3fb950&strokeWidth=2"/>
+📍 **Surat ↔ India** | 🤖 **Agentic Systems Architect** | 🚀 **Founder @ AceIntelligence**
 
-<a href="https://github.com/OMCHOKSI108">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=90&lines=Founder+%40+AceIntelligence+%E2%80%A2+Building+production+AI;Autonomous+Agents+%E2%80%A2+KHUNKHAAR+QA+%E2%80%A2+Quant+Systems;Shipping+at+inference+speed+%E2%80%A2+Built+with+obsession"/>
-</a>
+Building autonomous QA agents, document intelligence platforms, and high-frequency execution pipelines; obsessed with shipping at inference speed.
 
-<br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=OMCHOKSI108&label=Profile+Views&color=3fb950&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/OMCHOKSI108?tab=followers">
-  <img src="https://img.shields.io/github/followers/OMCHOKSI108?label=Followers&style=for-the-badge&logo=github&color=3fb950" alt="GitHub Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/OMCHOKSI108?tab=repositories">
-  <img src="https://img.shields.io/github/stars/OMCHOKSI108?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=e3b341" alt="GitHub Stars"/>
-</a>
+## Start Here
 
-<br/><br/>
+- 🐺 **[KHUNKHAAR](https://github.com/OMCHOKSI108/khunkhaar)** — Autonomous Senior QA & Security platform. Discovers hidden IDORs, SQLi, and multi-role RBAC leaks across real repos.
+- ⚡ **[AceIntelligence](https://github.com/OMCHOKSI108/aceintelligence)** — Next-generation document intelligence platform that grounds multi-modal LLM queries with verifiable source references.
+- ⚔️ **[elenchus](https://github.com/OMCHOKSI108/elenchus)** — An AI that disagrees with you three different ways to ruthlessly pressure-test arguments and decisions.
+- 💥 **[gunfire](https://github.com/OMCHOKSI108/gunfire)** — Tactical mechanical keyboard audio engine. 12-gauge shotgun blasts per keystroke, pump reload on Enter.
+- 🧬 **[hamminghell](https://github.com/OMCHOKSI108/hamminghell)** — Retrieval-augmented, provider-agnostic AI agent performing full-codebase-context code review.
+- 📈 **[kotak-neo-algo](https://github.com/OMCHOKSI108/kotak-neo-algo)** — Production-grade algorithmic trading and quantitative research platform for Indian equity markets.
+- 🛡️ **[TheKavach](https://github.com/OMCHOKSI108/TheKavach)** — Synthetic cybersecurity telemetry streaming platform with real-time AI security log analysis.
+- 🚦 **[custos](https://github.com/OMCHOKSI108/custos)** — Intelligent LLM Gateway with dynamic semantic routing, caching, and token cost governance.
 
-<a href="https://www.omchoksi.codes" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/omchoksi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://X.com/ChoksiOm" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://medium.com/@omchoksi108" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/omchoksi_23aiml010/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://dev.to/omchoksi108" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-<a href="mailto:omchoksi99@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## Current Projects
 
-</div>
+### Agent Ecosystem & Autonomous Systems
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+- 🐺 **[khunkhaar](https://github.com/OMCHOKSI108/khunkhaar)** — Autonomous Senior QA & security engineering platform. Recon, AST analysis, dynamic port detection, and 18-category testing.
+- ⚔️ **[elenchus](https://github.com/OMCHOKSI108/elenchus)** — Adversarial LLM agent engineered to dissect premises and stress-test assumptions.
+- 🧬 **[hamminghell](https://github.com/OMCHOKSI108/hamminghell)** — Retrieval-augmented AI agent performing whole-repo AST code reviews.
+- 🕸️ **[Multiagent-LangGraph-Research](https://github.com/OMCHOKSI108/Multiagent-LangGraph-Orchestrated-LLM-Research-Automation-Platform)** — Multi-agent LLM research automation platform orchestrating web search, synthesis, and report generation.
+- 🧪 **[benchflow](https://github.com/OMCHOKSI108/benchflow)** — Meta-skill pipeline generating and refining domain-specific agent skills.
+- 🔬 **[DataScientistAgent](https://github.com/OMCHOKSI108/DataScientistAgent)** — Autonomous AI agent executing Python code, RAG search, and data visualizations.
+- 💡 **[VibeThinker-1.5B](https://github.com/OMCHOKSI108/VibeThinkerModel)** — Tiny model, big logic: Diversity-driven optimization eliciting deep reasoning in 1.5B parameters.
 
-## ⚡ What I'm Doing
+### Enterprise AI & Document Platforms
 
-- 🚀 **Founder @ [AceIntelligence](https://github.com/OMCHOKSI108/aceintelligence)** — Building next-gen document intelligence platforms (ChatPDF) that ground multi-modal LLM queries with verifiable source references.
-- 🦅 **Creator of [KHUNKHAAR QA](https://github.com/OMCHOKSI108/khunkhaar)** — Autonomous Senior QA & Security engineering platform. Discovers hidden IDORs, SQLi, and multi-role RBAC vulnerabilities across real codebases before production deployment.
-- 🏎️ **Shipping at Inference Speed** — Building autonomous agentic systems, MCP protocol servers, and quant algorithms.
-- 🧠 **AI Red-Teaming** — Red-teamed OpenAI's `gpt-oss-20b` on Kaggle, uncovering deep logic and alignment boundaries.
+- ⚡ **[AceIntelligence](https://github.com/OMCHOKSI108/aceintelligence)** — Grounded document intelligence engine transforming enterprise PDFs into verifiable answers with citations.
+- 📚 **[RAGStack](https://github.com/OMCHOKSI108/RAGStack)** — Production-grade RAG pipeline with GPU auto-detection, strict hallucination prevention, and SSE streaming.
+- 💼 **[intelligencejobs](https://github.com/OMCHOKSI108/intelligencejobs)** — Hiring intelligence platform with automated resume parsing pipelines and E2E Playwright testing.
+- 💬 **[NLP-DOCUMENT-CHATBOT](https://github.com/OMCHOKSI108/NLP-DOCUMENT-CHATBOT)** — Multi-format document reasoning chatbot built with Streamlit and Cohere.
+- 🌾 **[gramsahay](https://github.com/OMCHOKSI108/gramsahay)** — Multilingual, voice-first digital assistant for rural and agricultural intelligence.
 
----
+### Quant Finance & Market Engines
 
-## 🛠️ What I've Built
-
-### 🤖 Autonomous Agents & LLM Infrastructure
-- 🦅 **[KHUNKHAAR](https://github.com/OMCHOKSI108/khunkhaar)** — Autonomous Senior QA & Security agent. Zero-config universal reconnaissance, AST schema analysis, and two-phase independent verification for production apps.
-- 🥊 **[elenchus](https://github.com/OMCHOKSI108/elenchus)** — An AI that aggressively disagrees with you in three different ways — built to pressure-test your arguments before you ship them.
-- 🕵️ **[hamminghell](https://github.com/OMCHOKSI108/hamminghell)** — Full-codebase-context pull request review agent. Catches logical regressions and style violations across repos.
-- 🕸️ **[LangGraph Research Automation Platform](https://github.com/OMCHOKSI108/Multiagent-LangGraph-Orchestrated-LLM-Research-Automation-Platform)** — Multi-agent research pipeline (Planner → Searcher → Crawler → Reasoner → Reviewer → Writer) with FastAPI + Next.js + BullMQ.
-- 💡 **[VibeThinker-1.5B](https://github.com/OMCHOKSI108/VibeThinkerModel)** — Tiny Model, Big Logic: Diversity-driven optimization eliciting large-model reasoning in 1.5B parameters.
-- 🛡️ **[CodeSecurityAuditAgent](https://github.com/OMCHOKSI108/CodeSecurityAuditAgent)** — Rule-based vulnerability detection with RAG-enhanced security analysis.
-
-### 🏢 Flagship Products & Document Intelligence
-- 📄 **[AceIntelligence (ChatPDF)](https://github.com/OMCHOKSI108/aceintelligence)** — Founder. AI-powered document intelligence platform enabling natural language queries over enterprise PDFs with grounded citations.
-- 💼 **[IntelligenceJobs](https://github.com/OMCHOKSI108/intelligencejobs)** — Production full-stack hiring intelligence platform with automated resume parsing pipeline and Playwright E2E testing.
-- 💬 **[NLP Document Chatbot](https://github.com/OMCHOKSI108/NLP-DOCUMENT-CHATBOT)** — Multi-format document reasoning chatbot built with Streamlit and Cohere.
-
-### 📈 Quant Finance & Algorithmic Trading
-- 📊 **[kotak-neo-algo](https://github.com/OMCHOKSI108/kotak-neo-algo)** — Production-grade algorithmic trading & quantitative research platform for Indian equity markets (FastAPI + React + PostgreSQL).
+- 📈 **[kotak-neo-algo](https://github.com/OMCHOKSI108/kotak-neo-algo)** — Production-grade algorithmic trading system for Indian equities with real-time broker execution.
 - 🤖 **[TradingAgents](https://github.com/OMCHOKSI108/TradingAgents)** — Multi-agent LLM financial trading framework coordinating technical, fundamental, and risk analysts.
+- 📊 **[Venketesh](https://github.com/OMCHOKSI108/Venketesh)** — Scalable real-time and historical financial market data distribution platform.
 
-### 🎮 Tactical Hacks & Hardware Toys
-- 💥 **[gunfire](https://github.com/OMCHOKSI108/gunfire)** — Tactical mechanical keyboard audio engine. 12-gauge shotgun blasts per keypress, pump reload sound on ENTER.
-- 🎥 **[VisionCCTV](https://github.com/OMCHOKSI108/VisionCCTV)** — Edge video intelligence using YOLOv8 + FaceNet + CLIP for real-time facial recognition and forensic search.
-- 🛡️ **[pralayAI](https://github.com/OMCHOKSI108/pralayAI)** — Cyber defense and MITRE ATT&CK incident response intelligence agent.
+### Cyber Defense & Tactical Hacks
+
+- 💥 **[gunfire](https://github.com/OMCHOKSI108/gunfire)** — Tactical mechanical keyboard audio engine (12-gauge shotgun blasts per keypress).
+- 🛡️ **[TheKavach](https://github.com/OMCHOKSI108/TheKavach)** — Synthetic cybersecurity telemetry streaming platform with live AI log analytics.
+- 🚨 **[pralayAI](https://github.com/OMCHOKSI108/pralayAI)** — Incident response and MITRE ATT&CK intelligence agent.
+- 🎥 **[VisionCCTV](https://github.com/OMCHOKSI108/VisionCCTV)** — Edge video intelligence combining YOLOv8, FaceNet, and CLIP for real-time facial recognition.
+- 🔍 **[CodeSecurityAuditAgent](https://github.com/OMCHOKSI108/CodeSecurityAuditAgent)** — AI code review agent combining AST security rules with RAG vulnerability detection.
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/main/assets/github-contribution-halloween.svg)
+
+## What I'm Doing
+
+- **Living in the future** — Building autonomous QA and agentic engineering systems to make software testing self-healing.
+- **Founder @ AceIntelligence** — Engineering enterprise document intelligence that eliminates hallucination with grounded citations.
+- **Shipping at Inference Speed** — Multi-agent orchestration, custom MCP servers, and LLM telemetry.
+- **Quant & Market Automation** — Low-latency algorithmic execution on Indian equity markets.
+
+## Connect
+
+[![X](https://img.shields.io/badge/-@ChoksiOm-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ChoksiOm)
+[![LinkedIn](https://img.shields.io/badge/-Om_Choksi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/omchoksi)
+[![Portfolio](https://img.shields.io/badge/-omchoksi.codes-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.omchoksi.codes)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/omchoksi04)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@omchoksi108)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OMCHOKSI108)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:choksiom108@gmail.com)
 
 ---
 
-## 🌶️ Unfiltered Hot Takes (Ragebaits)
+## Philosophy
+
+> "Ship beats perfect" — I build tools to solve my own bottlenecks, then let agents stress-test them in production.
+
+### 🌶️ Unfiltered Hot Takes (Ragebaits)
 
 > *"If you still manually test GraphQL and REST APIs with Postman in 2026, you're not an engineer — you're a human JSON parser."*
 
@@ -93,83 +99,12 @@
 
 > *"Clean Architecture is great until nobody ships. Ship to production, let real users break it, let agents audit it."*
 
----
+<details>
+<summary>Random Facts</summary>
 
-## 🧰 Tech Arsenal
+- Powered by black coffee, Linux terminals, and mechanical keyboard clicks (`gunfire` enabled).
+- Run 4+ Claude & OpenCode agent instances concurrently.
+- Obsessed with finding zero-days, auth bypasses, and IDORs before malicious actors do.
+- Red-teamed OpenAI's models on Kaggle.
 
-<div align="center">
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,bash" />
-</p>
-
-### Frameworks & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs,tailwind,graphql,postgres,mongodb" />
-</p>
-
-### AI / ML Ecosystem
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pine_Script-1E88E5?style=for-the-badge&logoColor=white"/>
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,linux,vscode" />
-</p>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMCHOKSI108&theme=github_dark" alt="Om's GitHub Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OMCHOKSI108&theme=github_dark" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=OMCHOKSI108&theme=dark&hide_border=true&border_radius=12&ring=3fb950&fire=e3b341&currStreakLabel=3fb950&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 🎃 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/main/assets/github-contribution-halloween.svg" alt="OMCHOKSI108's Halloween Contribution Graph" width="100%"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OMCHOKSI108/OMCHOKSI108/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<div align="center">
-
-### Built with obsession, not templates.
-
-<img src="https://img.shields.io/badge/⭐_Star_if_something_helped_you-e3b341?style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=130&section=footer&fontColor=3fb950"/>
+</details>
